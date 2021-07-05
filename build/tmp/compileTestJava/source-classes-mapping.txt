@@ -1,0 +1,6 @@
+com/epi/web/springboot/web/dto/HelloResponseDtoTest.java
+ com.epi.web.springboot.web.dto.HelloResponseDtoTest
+com/epi/web/WebApplicationTests.java
+ com.epi.web.WebApplicationTests
+com/epi/web/springboot/web/HelloControllerTest.java
+ com.epi.web.springboot.web.HelloControllerTest
